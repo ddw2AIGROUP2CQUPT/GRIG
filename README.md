@@ -1,2 +1,2 @@
 # GRIG
-Graph-based Representation for Image based on Granular-ball hhh
+Graph-based Representation for Image based on Granular-ball hhhhhhh
