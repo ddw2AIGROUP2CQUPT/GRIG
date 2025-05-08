@@ -1,8 +1,6 @@
 # A Multi-Granularity Adaptive Graph Representation of Image via Granular-Ball Computing
 Graph neural networks (GNNs) encounter challenges in establishing deep structures and managing a large number of parameters effectively to learn node features comprehensively. Consequently, in vision tasks, GNNs often struggle to achieve high classification accuracy compared to convolutional neural networks. Nonetheless, GNNs retain crucial advantages and potential, particularly in lightweight network scale and efficient, reliable decision-making. Thus, improving GNN performance in vision tasks remains a significant research endeavor, with numerous important works exploring the application of GNN models in such contexts, where the graph representation of images poses a key challenge. Existing methods often fall short in adaptively generating blocks of different sizes and their corresponding edges to form graph representations according to graph semantics. To address this issue, we propose a novel method to convert images into graphical forms using granular-ball computing. Our approach does not rely on manual annotation or other learning methods, yet it can dynamically generate block nodes of varying sizes and corresponding edges. Compared to other state-of-the-art methods, our approach better captures semantic information within the graph. Despite having fewer parameters, our method significantly enhances accuracy. Overall, our work holds substantial implications for improving the performance of graph neural networks in vision tasks.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9dddf67d-a312-4eed-a3c9-986be2ff7b7b" alt="示例图1" width="300">
-</p>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/464701c4-b525-48cb-90e4-f1750f0d5149" alt="示例图2" width="500">
 </p>
